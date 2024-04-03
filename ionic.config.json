@@ -1,0 +1,7 @@
+{
+  "name": "IonicExample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
