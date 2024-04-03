@@ -6,7 +6,7 @@
           </ion-toolbar>
       </ion-header>
       <ion-content class="ion-padding">
-          <h1>Bienvenido a Search</h1>
+          <h1>View de Search.vue</h1>
       </ion-content>
     </ion-page>
   </template>

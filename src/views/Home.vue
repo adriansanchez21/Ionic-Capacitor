@@ -6,7 +6,7 @@
           </ion-toolbar>
       </ion-header>
       <ion-content class="ion-padding">
-          <h1>Bienvenido a Home</h1>
+          <h1>View de Home.vue</h1>
       </ion-content>
     </ion-page>
   </template>
@@ -18,3 +18,4 @@
   <style scoped>
   
   </style>
+  
